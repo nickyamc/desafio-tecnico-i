@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Clorfenamina",
+    "price": 3.5
+  },
+  {
+    "id": 2,
+    "name": "Paracetamol",
+    "price": 1.0
+  },
+  {
+    "id": 3,
+    "name": "Ibuprofeno",
+    "price": 2.3
+  }
+]

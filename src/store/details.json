@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "product": {
+      "id": 1,
+      "name": "Clorfenamina",
+      "price": 3.5
+    },
+    "inventory": {
+      "id": 1,
+      "name": "Santa Marta"
+    },
+    "quantityA": 5,
+    "quantityR": 0
+  },
+  {
+    "id": 2,
+    "product": {
+      "id": 1,
+      "name": "Clorfenamina",
+      "price": 3.5
+    },
+    "inventory": {
+      "id": 2,
+      "name": "Villa Luz"
+    },
+    "quantityA": 7,
+    "quantityR": 0
+  },
+  {
+    "id": 3,
+    "product": {
+      "id": 2,
+      "name": "Paracetamol",
+      "price": 1.0
+    },
+    "inventory": {
+      "id": 1,
+      "name": "Santa Marta"
+    },
+    "quantityA": 10,
+    "quantityR": 0
+  },
+  {
+    "id": 4,
+    "product": {
+      "id": 2,
+      "name": "Paracetamol",
+      "price": 1.0
+    },
+    "inventory": {
+      "id": 2,
+      "name": "Villa Luz"
+    },
+    "quantityA": 8,
+    "quantityR": 0
+  },
+  {
+    "id": 5,
+    "product": {
+      "id": 3,
+      "name": "Ibuprofeno",
+      "price": 2.3
+    },
+    "inventory": {
+      "id": 2,
+      "name": "Villa Luz"
+    },
+    "quantityA": 15,
+    "quantityR": 0
+  }
+]
